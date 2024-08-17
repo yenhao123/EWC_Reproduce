@@ -4,6 +4,8 @@ An implementation of Elastic Weight Consolidation (EWC), proposed in James Kirkp
 
 * [demo.ipynb](demo.ipynb) demonstrates EWC with supervised learning. 
 
+forked by https://github.com/moskomule/ewc.pytorch/tree/master
+
 ## Quick start
 ```
 conda create -n ewc -m python=3.8
